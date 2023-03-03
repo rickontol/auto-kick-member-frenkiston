@@ -1,0 +1,1 @@
+# auto-kick-member-frenkiston
